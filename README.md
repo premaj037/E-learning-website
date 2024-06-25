@@ -14,7 +14,7 @@ You may also see any lint errors in the console.
 
 Sample ScreenShots
 
-![Home Page]([image-url](https://drive.google.com/file/d/1JN_80GggRhUO61g00kln72vazrSDcP9h/view?usp=drive_link))
+![Home Page]([image-url](https://drive.google.com/uc?export=view&id=1JN_80GggRhUO61g00kln72vazrSDcP9h))
 
 ![Courses]([image-url](https://drive.google.com/file/d/10VdmoA3-9KYlXLxvjT_yEjZ_54T1tJuN/view?usp=drive_link))
 
